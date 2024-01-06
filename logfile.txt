@@ -1,0 +1,1 @@
+<22:24:52.299582>: Dealer<18>: Auto <Car#12> (Body: <Body#13>, Motor: <Motor#13>, Accessory: <3_5>)
